@@ -1,4 +1,4 @@
-### Welcome to my GitHub 
+### Hi there, I'm 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/zachroberthirst?style=social">
 <a href="https://instagram.com/zach.hirst">
@@ -7,7 +7,7 @@
   
 Email (school)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 

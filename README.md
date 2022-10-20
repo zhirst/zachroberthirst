@@ -26,6 +26,19 @@
 
 <h2>About Me</h2> 
 
+<p>
+I'm a knowledgeable cyber security engineer with practice in information technology and computer
+engineering looking to obtain a position that allows for growth and application of current skills to
+produce solutions that meet or exceed goals and objectives outlined by the customer and employer.
+
+In school i'm a constant learner and leader. I am the Public Relations Chair on the Iowa State Skydivers Club. Which means I help promote the club to new students and students who haven't heard of the club before. I run the club's booth at the semi-annual clubfest and organize the club's competition trip to the skydiving collegiate nationals each December. My final large responsibility for the club is helping dictate and defend the club's budget at the annual budget hearings. I like to read. Typically I'll have two types of books I'm alternating with at a given time. These are usually a personal book like "Alone on the Wall", "Into Thin Air", & "Astrophysics for People in a Hurry." The other type of book will typically be a technical book like "Effective Java", "Cyber Security Blue Team Toolkit", & "Objective C." In addition to reading I try and spend some time working on programming projects. If you look in my repositories you can see some of the work that I've done. 
+
+Outside of school I'm an adventurer. I taught myself roped multipitch climbing systems in the Spring of 2020 during COVID. My roommate and I 
+go to Colorado often and have done climbs of up to 400ft. I am a State of Colorado Certified whitewater rafting guide. 
+Currently, I am cleared to guide class I-IV which I do on the Clear Creek River in Idaho Springs, CO. In part with being an officer on the Iowa State Skydivers Club
+I am also a licensed skydiver. 
+</p>
+
 <h2>🛠️ Languages & Tools</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

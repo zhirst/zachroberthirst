@@ -1,14 +1,15 @@
-### Hi there, I'm 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif"/>
+  <h1>Hi there, I'm Zach <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+</div>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/zachroberthirst?style=social">
-<a href="https://instagram.com/zach.hirst">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>
-  
-Email (school)
+<p2>My socials:</p2>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zach-hirst/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/zach.hirst)
 
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zachroberthirst.visitor-badge&left_text=My%20Page%20Visitors)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=zachroberthirst" /> 

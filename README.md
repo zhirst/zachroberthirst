@@ -53,5 +53,5 @@ I am also a licensed skydiver.
 
 <h2>My Stats</h2>
 
-[![Zach's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachroberthirst&theme=blue-green)](https://github.com/zachroberthirst/github-readme-stats)
+[![Zach's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachroberthirst&hide=html&theme=blue-green)](https://github.com/zachroberthirst/github-readme-stats)
 [![Zach's Github Stats](https://github-readme-stats.vercel.app/api?username=zachroberthirst&theme=blue-green)](https://github.com/zachroberthirst)
